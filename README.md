@@ -4,6 +4,10 @@
 
 A simple notice board.
 
+## Demo
+
+https://nboard.herokuapp.com/
+
 ## Technologies
 
 - AngularJS / HTML5 / PHP
